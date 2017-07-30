@@ -24,13 +24,13 @@
   - *Hacker News Renewal*
   - 실제 샘플 포트폴리오 사이트 : 
   
-- 사용 기술
+- 프로젝트에 사용하는 기술 Set 
   - React
   - JavaScript (TypeScript)
   - MobX
   - Firebase
   
-- 사전 교육
+- 사전 선수 과목
   - HTML : https://www.inflearn.com/course/html-%EA%B8%B0%EB%B3%B8/
   - CSS : https://www.inflearn.com/course/css-%EA%B8%B0%EB%B3%B8%EB%B6%80%ED%84%B0-%ED%99%9C%EC%9A%A9%EA%B9%8C%EC%A7%80/
   - JavaScript 기초 : https://www.inflearn.com/course-cat/development/programing-language/javascript/
