@@ -20,7 +20,7 @@
   - 강의식 : https://spaceshare.kr/space_detail/P15041000000832699
   - 파티식 : https://spaceshare.kr/space_detail/P16121700000000001
   
-- 프로젝트 명
+- 함께 만들 프로젝트
   - *Hacker News Renewal*
   - 실제 샘플 포트폴리오 사이트 : 
   
