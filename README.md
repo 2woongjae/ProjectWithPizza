@@ -17,8 +17,8 @@
   - 저녁(Pizza) : 오후 6시 ~ 오후 7시
   
 - 교육 장소 후보지
-  - 강의식 : https://spaceshare.kr/space_detail/P15041000000832699
-  - 파티식 : https://spaceshare.kr/space_detail/P16121700000000001
+  - 강의식 : https://spaceshare.kr/space_detail/P15041000000832699
+  - 파티식 : https://spaceshare.kr/space_detail/P16121700000000001
   
 - 프로젝트 명
   - *Hacker News Renewal*
